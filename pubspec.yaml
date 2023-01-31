@@ -11,12 +11,12 @@ dependencies:
   flutter:
     sdk: flutter
 
-  http: ^0.13.4 #Null safety
-  path_provider: ^2.0.5 #Null safety
-  path: ^1.8.0 #Null safety
-  flutter_svg: ^1.0.0 #Null safety
-  pool: ^1.5.0
-  async: ^2.8.2
+  http: ^0.13.5 #Null safety
+  path_provider: ^2.0.12 #Null safety
+  path: ^1.8.2 #Null safety
+  flutter_svg: ^1.1.6 #Null safety
+  pool: ^1.5.1
+  async: ^2.10.0
 
 dev_dependencies:
   flutter_test:
